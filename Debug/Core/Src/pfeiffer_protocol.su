@@ -1,0 +1,4 @@
+../Core/Src/pfeiffer_protocol.c:15:5:calculate_checksum	24	static
+../Core/Src/pfeiffer_protocol.c:26:10:parse_telegram	248	static
+../Core/Src/pfeiffer_protocol.c:115:6:free_telegram_memory	8	static
+../Core/Src/pfeiffer_protocol.c:122:6:build_telegram	104	static
